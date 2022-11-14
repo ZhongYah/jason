@@ -11,6 +11,8 @@ public class User {
     Integer id;
     String name;
 
+
+
     @JsonProperty("contact_email")
     String contactEmail;
 
